@@ -194,8 +194,8 @@ nav{
     padding: 10px;
 }
 #VideoCont iframe{
-     width: 360px;
-     height: 200px;
+     width: 300px;
+     height: 180px;
 }
 ::-webkit-scrollbar{
     width: 10px !important;
