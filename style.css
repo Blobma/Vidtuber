@@ -190,12 +190,12 @@ nav{
 #VideoCont{
     display: grid;
     grid-template-columns: auto auto auto ;
-    grid-template-rows: auto;
+    grid-template-rows: auto auto auto;
     padding: 10px;
 }
 #VideoCont iframe{
-     width: 180px;
-     height: 100px;
+     width: 320px;
+     height: 240px;
 }
 ::-webkit-scrollbar{
     width: 10px !important;
